@@ -52,6 +52,14 @@ Impact = Severity (0-10) x Location Weight
 
 Show top 3 (free) or top 5 (paid) by impact score.
 
+## Linear Workflow
+
+- Project: "Design Analyzer MVP" in Galleon team
+- Issues: GLN-57 through GLN-65
+- Commit format: `GLN-XXX: commit message`
+- Issues auto-link to GitHub commits
+- Remaining: GLN-64 (Test with 42 URLs), GLN-65 (Deploy to Vercel)
+
 ## Known Issues
 
 [To be filled during development]
